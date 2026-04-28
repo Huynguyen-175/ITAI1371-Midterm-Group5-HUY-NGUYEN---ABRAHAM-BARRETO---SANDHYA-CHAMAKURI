@@ -130,8 +130,9 @@ matplotlib    >= 3.7
 seaborn       >= 0.12
 
 ---
-
 ## 📁 Repository Structure
+
+```
 ITAI1371-Midterm-Group5/
 │
 ├── notebook.ipynb          # Main Jupyter notebook
@@ -139,10 +140,10 @@ ITAI1371-Midterm-Group5/
 ├── data/
 │   └── used_cars_raw.csv   # Raw dataset from Kaggle
 └── outputs/
-├── eda_plots.png
-├── model_comparison.png
-└── feature_importance.png
-
+    ├── eda_plots.png
+    ├── model_comparison.png
+    └── feature_importance.png
+```
 ---
 
 ## 🎓 Course Information
