@@ -121,6 +121,7 @@ jupyter notebook
 ---
 
 ## 📦 Dependencies
+```
 python        >= 3.10
 pandas        >= 2.0
 numpy         >= 1.24
@@ -128,6 +129,7 @@ scikit-learn  >= 1.3
 xgboost       >= 1.7
 matplotlib    >= 3.7
 seaborn       >= 0.12
+```
 
 ---
 ## 📁 Repository Structure
